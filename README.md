@@ -30,9 +30,9 @@ From an econometric perspective, we adopt a dynamic **Autoregressive Distributed
 ## 📈 Key Empirical Findings
 
 The dynamic simulation of the UECM model under a temporary 1-standard-deviation GSCPI shock reveals that:
-*   Euro area consumer prices (HICP) undergo a maximum cumulative increase between **0.33%** and **0.42%** (depending on the chosen autoregressive persistence parameter, $\rho$) [2].
+*   Euro area consumer prices (HICP) undergo a maximum cumulative increase between **0.33%** and **0.42%** (depending on the chosen autoregressive persistence parameter, $\rho$).
 *   The transmission is remarkably slow and exhibits strong nominal price rigidities (*price stickiness*), with the peak cumulative effect occurring with a delay between the **19th and 23rd months** after the initial shock [2]. 
-*   These results show a strong empirical alignment with the structural VAR (SVAR) findings in the reference literature (Finck and Tillmann, 2023), proving that our single-equation *ceteris paribus* estimates capture the direct cost-push pass-through of global trade bottlenecks [2].
+*   These results show a strong empirical alignment with the structural VAR (SVAR) findings in the reference literature (Finck and Tillmann, 2023), proving that our single-equation *ceteris paribus* estimates capture the direct cost-push pass-through of global trade bottlenecks.
 
 ### Figure: Cumulative HICP Response
 *(The figures below are generated directly by the code contained in the notebook)*
