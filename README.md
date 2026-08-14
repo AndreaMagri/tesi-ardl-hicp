@@ -44,7 +44,7 @@ The dynamic simulation of the UECM model under a temporary 1-standard-deviation 
 ## 📂 Repository Structure
 
 The repository is organized as follows:
-*   `tesi_analisi.ipynb`: The complete and commented Jupyter Notebook containing the entire estimation pipeline (from raw data download through APIs to econometric tests and dynamic simulations).
+*   `tesi_uecm.ipynb`: The complete and commented Jupyter Notebook containing the entire estimation pipeline (from raw data download through APIs to econometric tests and dynamic simulations).
 *   `gscpi_data_all.csv`: The dataset containing the monthly historical series of the New York Fed's GSCPI used to replicate the results.
 *   `images/`: Folder containing the generated high-resolution (300 DPI) plots used for compiling the LaTeX thesis.
 
