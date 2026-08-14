@@ -7,7 +7,7 @@ Anno Accademico 2025/2026.
 
 *   **Author**: Andrea Magri
 *   **Supervisor**: [Nome Relatore]
-*   **Contact**: [Tua Email Istituzionale o link LinkedIn]
+*   **Contact**: 
 
 ---
 
