@@ -21,9 +21,9 @@ You can explore the entire econometric code and run the dynamic simulations inte
 
 ## 📝 Project Description
 
-This research analyzes the short- and long-run pass-through (propagation mechanism) of global supply chain shocks (measured by the New York Fed's *Global Supply Chain Pressure Index* - GSCPI) to Euro area consumer prices (seasonally adjusted HICP) over the monthly period 1999-2026 [2].
+This research analyzes the short- and long-run pass-through (propagation mechanism) of global supply chain shocks (measured by the New York Fed's *Global Supply Chain Pressure Index* - GSCPI) to Euro area consumer prices (seasonally adjusted HICP) over the monthly period 1999-2026.
 
-From an econometric perspective, we adopt a dynamic **Autoregressive Distributed Lag (ARDL)** model reparameterized in its **Unrestricted Error Correction (UECM)** form [1]. This framework allows us to isolate the supply-side logistics transmission while controlling for global energy costs (Brent crude oil) and the nominal exchange rate channel (EUR/USD) in a single-equation setup [2].
+From an econometric perspective, we adopt a dynamic **Autoregressive Distributed Lag (ARDL)** model reparameterized in its **Unrestricted Error Correction (UECM)** form. This framework allows us to isolate the supply-side logistics transmission while controlling for global energy costs (Brent crude oil) and the nominal exchange rate channel (EUR/USD) in a single-equation setup.
 
 ---
 
@@ -37,7 +37,7 @@ The dynamic simulation of the UECM model under a temporary 1-standard-deviation 
 ### Figure: Cumulative HICP Response
 *(The figures below are generated directly by the code contained in the notebook)*
 
-![Risposta Cumulata HICP](hicp_cumulata_concl.png)
+![Risposta Cumulata HICP](images/hicp_cumulata_concl.png)
 
 ---
 
@@ -46,7 +46,7 @@ The dynamic simulation of the UECM model under a temporary 1-standard-deviation 
 The repository is organized as follows:
 *   `tesi_analisi.ipynb`: The complete and commented Jupyter Notebook containing the entire estimation pipeline (from raw data download through APIs to econometric tests and dynamic simulations).
 *   `gscpi_data_all.csv`: The dataset containing the monthly historical series of the New York Fed's GSCPI used to replicate the results.
-*   `images/`: Folder containing the generated high-resolution (300 DPI) plots used for compiling the LaTeX thesis [2].
+*   `images/`: Folder containing the generated high-resolution (300 DPI) plots used for compiling the LaTeX thesis.
 
 ---
 
