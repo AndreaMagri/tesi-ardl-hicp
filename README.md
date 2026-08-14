@@ -15,7 +15,7 @@ Anno Accademico 2025/2026.
 
 You can explore the entire econometric code and run the dynamic simulations interactively directly on Google Colab without installing any local libraries:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tuo-username/nome-repo/blob/main/tesi_analisi.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AndreaMagri/tesi-ardl/blob/main/tesi_uecm.ipynb)
 
 ---
 
