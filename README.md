@@ -11,23 +11,23 @@ Anno Accademico 2025/2026.
 
 ---
 
-## 🚀 Run the Analysis in One Click
+## Run the Analysis in One Click
 
-You can explore the entire econometric code and run the dynamic simulations interactively directly on Google Colab without installing any local libraries:
+You can explore the entire code and run the dynamic simulations interactively directly on Google Colab without installing any local libraries:
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AndreaMagri/tesi-ardl/blob/main/tesi_uecm.ipynb)
 
 ---
 
-## 📝 Project Description
+##  Project Description
 
-This research analyzes the short- and long-run pass-through (propagation mechanism) of global supply chain shocks (measured by the New York Fed's *Global Supply Chain Pressure Index* - GSCPI) to Euro area consumer prices (seasonally adjusted HICP) over the monthly period 1999-2026.
+This research analyzes the short and long-run pass-through (propagation mechanism) of global supply chain shocks (measured by the New York Fed's *Global Supply Chain Pressure Index* - GSCPI) to Euro area consumer prices (seasonally adjusted HICP) over the monthly period 1999-2026.
 
-From an econometric perspective, we adopt a dynamic **Autoregressive Distributed Lag (ARDL)** model reparameterized in its **Unrestricted Error Correction (UECM)** form. This framework allows us to isolate the supply-side logistics transmission while controlling for global energy costs (Brent crude oil) and the nominal exchange rate channel (EUR/USD) in a single-equation setup.
+From an econometric perspective, I adopted a dynamic **Autoregressive Distributed Lag (ARDL)** model reparameterized in its **Unrestricted Error Correction (UECM)** form. This framework allows to isolate the supply-side logistics transmission while controlling for global energy costs (Brent crude oil) and the nominal exchange rate channel (EUR/USD) in a single-equation setup.
 
 ---
 
-## 📈 Key Empirical Findings
+## Key Empirical Findings
 
 The dynamic simulation of the UECM model under a temporary 1-standard-deviation GSCPI shock reveals that:
 *   Euro area consumer prices (HICP) undergo a maximum cumulative increase between **0.33%** and **0.42%** (depending on the chosen autoregressive persistence parameter, $\rho$).
@@ -41,7 +41,7 @@ The dynamic simulation of the UECM model under a temporary 1-standard-deviation 
 
 ---
 
-## 📂 Repository Structure
+##  Repository Structure
 
 The repository is organized as follows:
 *   `tesi_uecm.ipynb`: The complete and commented Jupyter Notebook containing the entire estimation pipeline (from raw data download through APIs to econometric tests and dynamic simulations).
@@ -50,7 +50,7 @@ The repository is organized as follows:
 
 ---
 
-## 📚 Key References
+##  Key References
 
 *   Finck, D., & Tillmann, P. (2023). *The macroeconomic effects of global supply chain disruptions*. BOFIT Discussion Papers.
 *   Carrière-Swallow, Y., Deb, P., Furceri, D., Jimenez, D., & Ostry, J. D. (2023). *Shipping costs and inflation*. Journal of International Money and Finance.
