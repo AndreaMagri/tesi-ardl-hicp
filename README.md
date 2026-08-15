@@ -6,7 +6,7 @@ Tesi di Laurea Triennale in **Economia e Finanza**
 Anno Accademico 2025/2026.
 
 *   **Author**: Andrea Magri
-*   **Supervisor**: [Nome Relatore]
+*   **Supervisor**: 
 *   **Contact**: 
 
 ---
