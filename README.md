@@ -6,8 +6,6 @@ Tesi di Laurea Triennale in **Economia e Finanza**
 Anno Accademico 2025/2026.
 
 *   **Author**: Andrea Magri
-*   **Supervisor**: 
-*   **Contact**: 
 
 ---
 
@@ -51,6 +49,6 @@ The repository is organized as follows:
 ---
 
 ##  Key References
-
+*   Benigno, G., di Giovanni, J., Groen, J. J., & Noble, A. I. (2022). *The GSCPI: A New Barometer of Global Supply Chain Pressures.* Federal Reserve Bank of New York Staff Reports, No. 1017.
 *   Finck, D., & Tillmann, P. (2023). *The macroeconomic effects of global supply chain disruptions*. BOFIT Discussion Papers.
 *   Carrière-Swallow, Y., Deb, P., Furceri, D., Jimenez, D., & Ostry, J. D. (2023). *Shipping costs and inflation*. Journal of International Money and Finance.
