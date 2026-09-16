@@ -35,7 +35,7 @@ The dynamic simulation of the UECM model under a temporary 1-standard-deviation 
 ### Figure: Cumulative HICP Response
 *(The figures below are generated directly by the code contained in the notebook)*
 
-![Risposta Cumulata HICP](images/hicp_cumulata_concl.png)
+![Risposta Cumulata HICP](images/hicp_cumulata.png)
 
 ---
 
